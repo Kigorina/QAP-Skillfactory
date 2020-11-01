@@ -9,6 +9,7 @@ class Square:
         self.a = a
     def get_area(self):
         return self.a ** 2
+#площадь круга
 class Circle:
     def __init__(self, r, p):
         self.r = r

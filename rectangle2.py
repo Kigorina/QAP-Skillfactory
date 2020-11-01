@@ -10,6 +10,7 @@ square_1 = Square(5)
 square_2 = Square(10)
 print(square_1.get_area(),
       square_2.get_area())
+#площадь круга
 circle_1 = Circle(5, 3.14)
 circle_2 = Circle(10, 3.14)
 print(circle_1.get_area())
